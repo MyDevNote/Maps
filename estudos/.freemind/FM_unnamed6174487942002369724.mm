@@ -1,0 +1,13 @@
+<map version="1.1.0">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node CREATED="1596803445323" ID="ID_202292964" MODIFIED="1596803455278" TEXT="Ingl&#xea;s">
+<node CREATED="1596803462698" ID="ID_1057763472" MODIFIED="1596803467843" POSITION="right" TEXT="Por que">
+<node CREATED="1596803467862" ID="ID_1438017597" MODIFIED="1596803490835" TEXT="Why">
+<node CREATED="1596803505954" ID="ID_812987089" MODIFIED="1596803509554" TEXT="Perguntas"/>
+</node>
+<node CREATED="1596803472206" ID="ID_30548335" MODIFIED="1596803496322" TEXT="Because">
+<node CREATED="1596803499930" ID="ID_772086259" MODIFIED="1596803504839" TEXT="Respostas"/>
+</node>
+</node>
+</node>
+</map>

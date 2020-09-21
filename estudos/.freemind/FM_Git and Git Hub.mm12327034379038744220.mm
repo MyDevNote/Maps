@@ -1,0 +1,15 @@
+<map version="1.1.0">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node CREATED="1596996780683" ID="ID_1606696109" MODIFIED="1596996877754" TEXT="Git and Git Hub">
+<node CREATED="1596996880254" ID="ID_215297248" MODIFIED="1596996949066" POSITION="right" TEXT="Git versionamento">
+<node CREATED="1596996950791" ID="ID_1563124293" MODIFIED="1596996954079" TEXT="Branch">
+<node CREATED="1596996955374" ID="ID_316818103" MODIFIED="1596996963115" TEXT="Ramifica&#xe7;&#xe3;o"/>
+<node CREATED="1596996970864" ID="ID_1241440755" MODIFIED="1596996980869" TEXT="Outra linha de desenvolvimento"/>
+</node>
+<node CREATED="1596997011655" ID="ID_78508067" MODIFIED="1596997015826" TEXT="Fork">
+<node CREATED="1596997017203" ID="ID_1110928873" MODIFIED="1596997029621" TEXT="Bifurca&#xe7;&#xe3;o do projeto"/>
+</node>
+<node CREATED="1596997047591" ID="ID_582802195" MODIFIED="1596997047591" TEXT=""/>
+</node>
+</node>
+</map>
